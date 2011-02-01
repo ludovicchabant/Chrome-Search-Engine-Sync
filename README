@@ -1,0 +1,4 @@
+
+These scripts will export and import your Google Chrome search engine preferences to a file named "keywords.sql".
+If you put this file in a Dropbox-synced folder (or some folder syncing through another similar service), you can
+easily sync those preferences between various Windows and/or Mac computers.
